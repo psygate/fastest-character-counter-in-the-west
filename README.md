@@ -7,3 +7,8 @@ Count the occurences of the letters A, C, G and T in a string (char array) as qu
 ### The Code
 
 (Ab)using AVX2 the time can be ~5ms on a i7 or Zen.
+
+## Repository Structure
+
+* psygate -> my solutions
+* KillerLink -> https://github.com/KillerLink solutions
